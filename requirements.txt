@@ -1,0 +1,4 @@
+numpy
+panda
+flask
+flask_mysqldb
